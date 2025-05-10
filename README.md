@@ -1,0 +1,1 @@
+Currently just a Python script that reads in 1972 BASIC source for an early version of Oregon Trail.  The ultimate goal is to rewrite it in Python while changing as little code as possible, made more difficult by the lack of GOTOs in Python, and the desire to not have global variables if possible.
